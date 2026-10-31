@@ -16,7 +16,7 @@ arrow api -> auth
 arrow auth -> db "yes" · elbow
 note ship "Ship by Friday" #yellow
 
-Give places only where they matter: what has no place is laid out by its arrows, inside its frame, beside what is there; a place you give is kept. A line about an element that exists changes only what it says (to move one, give its handle and "@ x,y"); new handles are new elements. whole: true makes the sketchboard exactly what you write, erasing what you do not name. Asked for a Mermaid diagram or a flowchart, write this format.
+Give places only where they matter: what has no place is laid out by its arrows, inside its frame, beside what is there; a place you give is kept. A line about an element that exists changes only what it says (to move one, give its handle and "@ x,y"); new handles are new elements. whole: true makes the sketchboard exactly what you write, erasing what you do not name. Asked for a diagram on a sketchboard, write this format.
 
 Live elements: "component <handle> "<its name in the catalog>"" runs that component in its box, live, with its example's inputs ("· version:N" pins a version; the latest otherwise); "dataset <handle> "<dataset name>"" shows a dataset there as a live table. They move, resize and join arrows like any element. Asked to build what a sketch shows (make it real): read it, save a component that does what it shows (component_save; guide: components), then place it beside the sketch as a component element, to the right of what it was built from.
 

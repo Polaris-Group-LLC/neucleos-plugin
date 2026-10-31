@@ -1,6 +1,6 @@
 {
   "name": "neucleos",
-  "version": "1.1.0+efb325b034",
+  "version": "1.1.1+ec6b13f9dc",
   "description": "Cleo in Neucleos: desktops, datasets, canvases, components, sketchboards and agents you make together, private to you until you share them. Sign in with Neucleos.",
   "author": {
     "name": "Neucleos",
@@ -20,7 +20,7 @@
     "displayName": "Neucleos",
     "shortDescription": "Your Neucleos cockpit, with Cleo",
     "longDescription": "Cleo in Neucleos: desktops, datasets, canvases, components, sketchboards and agents you make together, private to you until you share them. Sign in with Neucleos.",
-    "developerName": "Neucleos",
+    "developerName": "Polaris Group LLC",
     "category": "Productivity",
     "capabilities": [
       "Desktops",

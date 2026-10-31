@@ -1,6 +1,6 @@
 # Neucleos
 
-Cleo in Neucleos, for Claude (chat, Cowork and Claude Code) and Codex. It adds Neucleos's address (https://mcp.neucleos.app/mcp), where you sign in with Neucleos, Neucleos's guides as skills, three starters (desktop, research and briefing), and feedback, which passes what you tell Cleo to the people who make Neucleos.
+Cleo in Neucleos, for ChatGPT, Codex and Claude (chat, Cowork and Claude Code). It adds Neucleos's address (https://mcp.neucleos.app/mcp), where you sign in with Neucleos, Neucleos's guides as skills, three starters (desktop, research and briefing), and feedback, which passes what you tell Cleo to the people who make Neucleos.
 
 It connects to one place, Neucleos (https://mcp.neucleos.app/mcp), and only after you sign in with Neucleos: what Cleo makes and reads for you there, and feedback you ask her to pass on, go to Neucleos. Nothing in it runs on your computer.
 
