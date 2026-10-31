@@ -10,8 +10,8 @@ It connects to one place, Neucleos (https://mcp.neucleos.app/mcp), and only afte
 
 - Claude (chat, the desktop app, Cowork): Customize, Plugins, Add, Add marketplace, enter `Polaris-Group-LLC/neucleos-plugin` and add Neucleos from it (or download https://v6.cockpit.neucleos.app/plugin/neucleos.zip and choose Upload plugin); then on the plugin's Connectors tab add Neucleos and connect it.
 - A company on Claude Team or Enterprise: an Owner uploads https://v6.cockpit.neucleos.app/plugin/neucleos.zip in Organization settings, Plugins & skills (Default access: Installed by default), or lists it in the company's own synced marketplace as `{ "name": "neucleos", "source": { "source": "git-subdir", "url": "https://github.com/Polaris-Group-LLC/neucleos-plugin.git", "path": "neucleos" } }`, and adds Neucleos's address in Organization settings, Connectors; each member connects it.
-- Claude Code: `claude plugin marketplace add Polaris-Group-LLC/neucleos-plugin`, then `claude plugin install neucleos@neucleos` (or `/plugin install neucleos@neucleos`).
-- Codex: `codex plugin marketplace add Polaris-Group-LLC/neucleos-plugin`, then `codex plugin add neucleos@neucleos`.
+- Claude Code (the app or a terminal): ask Claude Code "Please install the Neucleos plugin for me: run claude plugin marketplace add Polaris-Group-LLC/neucleos-plugin, then claude plugin install neucleos@neucleos. When it's done, tell me how to load it and sign in to Neucleos here." Or run `claude plugin marketplace add Polaris-Group-LLC/neucleos-plugin`, then `claude plugin install neucleos@neucleos`, in a terminal yourself.
+- Codex (the app or a terminal): ask Codex "Please install the Neucleos plugin for me: run codex plugin marketplace add Polaris-Group-LLC/neucleos-plugin, then codex plugin add neucleos@neucleos, then codex mcp login neucleos so I can sign in with Neucleos." Or run `codex plugin marketplace add Polaris-Group-LLC/neucleos-plugin`, then `codex plugin add neucleos@neucleos`, in a terminal yourself.
 
 Help: support@neucleos.ai. Privacy: https://v6.cockpit.neucleos.app/privacy. License: all rights reserved (LICENSE).
 
