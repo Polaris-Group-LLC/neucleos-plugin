@@ -10,6 +10,6 @@ It connects to one place, Neucleos (https://mcp.neucleos.app/mcp), and only afte
 - Claude Code (the app or a terminal): ask Claude Code "Please install the Neucleos plugin for me by running: claude plugin install neucleos --marketplace https://v6.cockpit.neucleos.app/plugin/marketplace.json. Then tell me exactly what to type or click next to sign in to Neucleos here." Or run that command in a terminal yourself (Claude Code 2.1.292 or later; it needs no git).
 - Codex (the app or a terminal): ask Codex "Please install the Neucleos plugin for me: run codex plugin marketplace add Polaris-Group-LLC/neucleos-plugin, then codex plugin add neucleos@neucleos, then codex mcp login neucleos so I can sign in with Neucleos." Or run `codex plugin marketplace add Polaris-Group-LLC/neucleos-plugin`, then `codex plugin add neucleos@neucleos`, in a terminal yourself.
 
-Help: support@neucleos.ai. Privacy: https://v6.cockpit.neucleos.app/privacy. License: all rights reserved (LICENSE).
+Help: support@neucleos.ai. Privacy: https://v6.cockpit.neucleos.app/privacy. Terms: https://v6.cockpit.neucleos.app/terms. License: all rights reserved (LICENSE).
 
 Made by `npm run plugin` in the Neucleos repository from Cleo's own guides; do not edit it by hand.
