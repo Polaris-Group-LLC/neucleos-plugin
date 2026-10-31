@@ -1,0 +1,16 @@
+{
+  "name": "neucleos",
+  "owner": {
+    "name": "Neucleos",
+    "url": "https://v6.cockpit.neucleos.app"
+  },
+  "description": "Neucleos for Claude",
+  "plugins": [
+    {
+      "name": "neucleos",
+      "source": "./neucleos",
+      "description": "Cleo in Neucleos: desktops, datasets, canvases, components, sketchboards and agents you make together, private to you until you share them. Sign in with Neucleos.",
+      "category": "productivity"
+    }
+  ]
+}

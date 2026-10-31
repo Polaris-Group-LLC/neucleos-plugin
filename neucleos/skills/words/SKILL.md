@@ -1,0 +1,11 @@
+---
+name: words
+description: "Neucleos's words: Worlds, artifacts and their kinds, tabs and the deck, and opening the person's cockpit. Read before working in Neucleos for the first time in a conversation."
+---
+
+# words
+
+- A World is a tenant (a person's own, or a company they belong to). Everything belongs to one World. world_list gives their Worlds (the first is their home World) and how many people are in each; world_members says who they are. Founders and admins invite people on the World page; you never invite, remove or accept anyone.
+- An artifact is a saved thing made in Neucleos. Kinds: write and show (Office documents and decks), dataset (a table; a sheet is a dataset), canvas (a page of text, media, components and datasets, on live data), media (an image, video or audio file), component (compiled, reusable React code in the World's catalog: a tab of its own, a thing on a desktop or a canvas, or a building block other components import), app (one self-contained HTML page), desktop (a surface of things you and the person use together), sketchboard (a whiteboard of shapes, arrows and notes, hand-drawn by default).
+- A dataset is durable structured data: records with described fields (text, number, date, boolean, url, choice, reference). No table is ever created for it. Records are addressed by _id; their values by field key.
+- A tab is an open artifact in the person's cockpit; their deck is the set of tabs open in a World. artifact_open puts one in front when their cockpit is open; when it is not, cockpit_link gives a link that opens it signed in, once, within a minute.

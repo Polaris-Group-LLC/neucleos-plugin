@@ -1,0 +1,20 @@
+{
+  "name": "neucleos",
+  "displayName": "Neucleos",
+  "version": "1.0.0+77fd0f0485",
+  "description": "Cleo in Neucleos: desktops, datasets, canvases, components, sketchboards and agents you make together, private to you until you share them. Sign in with Neucleos.",
+  "author": {
+    "name": "Neucleos",
+    "url": "https://v6.cockpit.neucleos.app"
+  },
+  "homepage": "https://v6.cockpit.neucleos.app",
+  "repository": "https://github.com/Polaris-Group-LLC/neucleos-plugin",
+  "keywords": [
+    "neucleos",
+    "cleo",
+    "desktops",
+    "datasets",
+    "canvases",
+    "sketchboards"
+  ]
+}
