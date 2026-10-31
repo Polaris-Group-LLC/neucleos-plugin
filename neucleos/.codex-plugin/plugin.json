@@ -31,6 +31,7 @@
       "Agents"
     ],
     "websiteURL": "https://v6.cockpit.neucleos.app",
+    "privacyPolicyURL": "https://v6.cockpit.neucleos.app/privacy",
     "defaultPrompt": [
       "Start a desktop for planning our team offsite",
       "Research the five best CRM tools for a small team and keep what you find in a dataset",

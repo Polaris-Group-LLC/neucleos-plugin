@@ -9,6 +9,6 @@ It connects to one place, Neucleos (https://mcp.neucleos.app/mcp), and only afte
 - Claude Code: `claude plugin marketplace add Polaris-Group-LLC/neucleos-plugin`, then `claude plugin install neucleos@neucleos` (or `/plugin install neucleos@neucleos`).
 - Codex: `codex plugin marketplace add Polaris-Group-LLC/neucleos-plugin`, then `codex plugin add neucleos@neucleos`.
 
-Help: support@neucleos.ai. License: all rights reserved (LICENSE).
+Help: support@neucleos.ai. Privacy: https://v6.cockpit.neucleos.app/privacy. License: all rights reserved (LICENSE).
 
 Made by `npm run plugin` in the Neucleos repository from Cleo's own guides; do not edit it by hand.
