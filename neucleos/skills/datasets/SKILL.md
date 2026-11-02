@@ -5,7 +5,7 @@ description: "Neucleos datasets: facts kept as records with typed fields, writes
 
 # datasets
 
-When work produces facts worth keeping, sorting, filtering or charting (research findings, people, companies, sources, prices, dates), keep them in a dataset rather than only in prose. dataset_list first: add to an existing dataset when it fits. Choose clear field keys and types; add fields later with dataset_fields.
+For client, account, prospect or deal discovery, read the clients guide first: use records, work, sources and claims. For other facts worth keeping, sorting, filtering or charting (research findings, prices, dates), keep them in a dataset rather than only in prose. dataset_list first: add to an existing dataset when it fits. Choose clear field keys and types; add fields later with dataset_fields.
 
 Every write is checked against the fields and is all or nothing. If it is refused, fix what the error names and write again. Every change is in the dataset's history (dataset_history) and can be undone (dataset_undo); tell the person what you changed.
 
