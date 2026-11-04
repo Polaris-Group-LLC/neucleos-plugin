@@ -3,6 +3,8 @@ name: on-brand
 description: "Make anything a World will show (a page, a widget, an app, a deck or a document) in that World's brand and voice."
 ---
 
+The person has requested Neucleos work. Follow the opening skill first if the workspace is not already open in this conversation.
+
 Make what the person asked for in their World's brand and voice.
 
 1. guide with the topic brands; brand_read the brand it will wear (the World's, or the one they named).

@@ -3,6 +3,8 @@ name: brand
 description: "Build or extend a World's brand in Neucleos from what the person has (PDFs, decks, screenshots, a website) or from nothing: colors, type, shapes, logos, patterns and voice, each with its source, reviewed by them and released."
 ---
 
+The person has requested Neucleos work. Follow the opening skill first if the workspace is not already open in this conversation.
+
 Build or extend the brand the person asked for, in Neucleos. If it is not clear which surfaces it must serve (a website, an app, decks, print), ask in one short question first.
 
 1. Read the guide: guide with the topics words, brands and desktops. world_list, then search and artifact_list with kind brand: extend the World's brand rather than make a second.
