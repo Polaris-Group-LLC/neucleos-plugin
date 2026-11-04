@@ -1,6 +1,6 @@
 # Neucleos for Claude and Codex
 
-Cleo in Neucleos: desktops, datasets, canvases, components, sketchboards and agents you make together, private to you until you share them. Sign in with Neucleos.
+Work with Cleo in Neucleos: shared desktops and pages, live tables, client records, source-backed discovery, editable Designs, widgets and agents. New work stays private until you share it. Sign in with Neucleos.
 
 This is the Neucleos plugin (`neucleos/`) as a marketplace that Claude, Claude Code and Codex read. It adds Neucleos's address (https://mcp.neucleos.app/mcp), where you sign in with Neucleos, Neucleos's guides as skills, starters (a desktop, research, a briefing, notes from a call, building a brand, and making things on-brand), and feedback, which passes what you tell Cleo to the people who make Neucleos.
 

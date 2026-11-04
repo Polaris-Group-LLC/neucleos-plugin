@@ -1,8 +1,8 @@
 {
   "name": "neucleos",
   "displayName": "Neucleos",
-  "version": "1.1.35+324981c51b",
-  "description": "Cleo in Neucleos: desktops, datasets, canvases, components, sketchboards and agents you make together, private to you until you share them. Sign in with Neucleos.",
+  "version": "1.1.36+324981c51b",
+  "description": "Work with Cleo in Neucleos: shared desktops and pages, live tables, client records, source-backed discovery, editable Designs, widgets and agents. New work stays private until you share it. Sign in with Neucleos.",
   "author": {
     "name": "Neucleos",
     "url": "https://v6.cockpit.neucleos.app"
