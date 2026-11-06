@@ -1,12 +1,12 @@
 {
   "name": "neucleos",
-  "version": "1.1.41+12e19a8696",
+  "version": "1.1.42+ee227afe86",
   "description": "Work with Cleo in Neucleos: shared desktops and pages, live tables, client records, source-backed discovery, editable Designs, widgets and agents. New work stays private until you share it. Sign in with Neucleos.",
   "author": {
     "name": "Neucleos",
-    "url": "https://v6.cockpit.neucleos.app"
+    "url": "https://v6.neucleos.app"
   },
-  "homepage": "https://v6.cockpit.neucleos.app",
+  "homepage": "https://v6.neucleos.app",
   "repository": "https://github.com/Polaris-Group-LLC/neucleos-plugin",
   "keywords": [
     "neucleos",
@@ -30,10 +30,10 @@
       "Widgets",
       "Cloud execution"
     ],
-    "websiteURL": "https://v6.cockpit.neucleos.app",
-    "supportURL": "https://v6.cockpit.neucleos.app/support",
-    "privacyPolicyURL": "https://v6.cockpit.neucleos.app/privacy",
-    "termsOfServiceURL": "https://v6.cockpit.neucleos.app/terms",
+    "websiteURL": "https://v6.neucleos.app",
+    "supportURL": "https://v6.neucleos.app/support",
+    "privacyPolicyURL": "https://v6.neucleos.app/privacy",
+    "termsOfServiceURL": "https://v6.neucleos.app/terms",
     "defaultPrompt": [
       "Start a desktop for planning our team offsite",
       "Research the five best CRM tools for a small team and keep what you find in a dataset",

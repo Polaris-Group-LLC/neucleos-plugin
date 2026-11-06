@@ -2,7 +2,7 @@
   "name": "neucleos",
   "owner": {
     "name": "Neucleos",
-    "url": "https://v6.cockpit.neucleos.app"
+    "url": "https://v6.neucleos.app"
   },
   "description": "Neucleos for Claude",
   "plugins": [
