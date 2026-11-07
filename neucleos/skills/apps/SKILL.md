@@ -1,8 +1,13 @@
 ---
 name: apps
-description: "Neucleos apps: a self-contained HTML page published as a tab, from a file by upload, with the frame bridge. Read before making or publishing an app page."
+description: "Neucleos apps: there is no app to write. Assemble a Page, Desktop or Site from registered pieces with object_create; compiled HTML pages are legacy and refused. Read before putting something new in front of a person."
 ---
 
 # apps
 
 Use object_catalog to discover the reusable pieces installed in this environment. Use object_list with its continuation cursor to find saved work, then object_read before changing it. New workspace Pages, Desktops and Sites use object_create with their config, placements and bindings. Create Text and other registered pieces from data, then place the same object where needed. Live selections follow later revisions; pinned selections name one revision. object_update requires the revision read before editing. Use object_open to leave the result saved and usable. Each surface uses the World's brand. Never compile UI code in production; if a needed piece is missing, identify that gap. Shared Sites publish through site_preview and site_publish with the returned buildId; site_preview attaches a hostname and captures saved content. site_publication reads versions and site_withdraw takes the website offline. Legacy websites retain their existing workflow until migrated. Existing legacy content remains readable and editable through its original tools; object_migration_plan reports which saved content can be migrated without loss.
+There is no app to write. To put something new in front of them, assemble it from registered pieces: object_catalog lists what exists (Text, Image, Video, Audio, Table, Poll, Quiz, Form, Board, List, Design, Source reader, Page, Desktop, Site); object_create makes a Page (pieces in order), a Desktop (pieces placed by position) or a Site (Pages on routes), with typed config, placements and bindings; object_open puts it in front of them. One saved piece can be placed on a Page, a Desktop and a Site at once and stays one thing. Never write or compile UI code in production; if no registered piece fits, say which piece is missing so it can be built in development.
+
+Legacy: an "app" was one compiled HTML page per request (artifact_create + artifact_publish). Nothing new is made that way; those tools now refuse and the two that exist stay readable. A Document (write) or Presentation (show) uploaded as a file is legacy too: ask to turn it into a Page.
+
+artifact_open brings an existing artifact to the front as a tab.

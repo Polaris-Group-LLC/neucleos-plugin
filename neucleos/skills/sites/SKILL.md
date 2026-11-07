@@ -1,6 +1,6 @@
 ---
 name: sites
-description: "Neucleos sites: a World's website as a draft (pages that are canvases of sections, the top and foot of every page, redirects and files) in its one format, built into a private preview and published by the founder or an admin. Read before making, reading or changing a site, or asking to publish one."
+description: "Neucleos Sites: registered Pages on routes, made with site_create and object_create, live inside the World and published as saved versions through the shared renderer (site_preview, site_publish). The legacy website draft tools serve existing legacy sites only. Read before making, changing or publishing a site."
 ---
 
 # sites

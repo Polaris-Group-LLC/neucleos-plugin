@@ -1,6 +1,6 @@
 ---
 name: components
-description: "Neucleos components: reusable React code in the World's catalog, its inputs, datasets and agents, and how it compiles. Read before writing, saving or placing a component."
+description: "Neucleos pieces: reusable components are written and compiled in development and registered as object types; in production Cleo configures them with data and never writes or compiles code. Read before placing a piece or when no piece fits."
 ---
 
 # components
