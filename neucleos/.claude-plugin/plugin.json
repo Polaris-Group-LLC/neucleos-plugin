@@ -1,7 +1,7 @@
 {
   "name": "neucleos",
   "displayName": "Neucleos",
-  "version": "1.1.60+1a5eab6eeb",
+  "version": "1.1.61+1c599702dc",
   "description": "Work with Cleo in Neucleos: shared desktops and pages, live tables, client records, source-backed discovery, editable Designs, widgets and agents. New work stays private until you share it. Sign in with Neucleos.",
   "author": {
     "name": "Neucleos",
